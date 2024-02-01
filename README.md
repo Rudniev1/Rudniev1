@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rudniev1
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Flutter, 
+- 🌱 I’m currently learning Java, 
 - 💞️ I’m looking to collaborate on professional software development
 
 <!---
